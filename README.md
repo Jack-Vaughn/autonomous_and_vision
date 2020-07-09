@@ -2,7 +2,7 @@
 
 This library focuses on 
 
-- Calculating the distance between a single camera and a object of known dimensions.
+- Calculating the distance between a single camera and an object of known dimensions.
 - Ensuring an object of known shape and color is centered by using a drive system to rotate.
 - Utilizing the two bullets above to drive and follow and known object.
 
